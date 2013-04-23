@@ -32,13 +32,6 @@ Explorations of icon fonts its uses, benefits, and the creation of.
 * [Glyphs app](http://glyphsapp.com/)
 
 ###References
+* [Student Tips by Geoffrey Rose](https://github.com/geoffreyrose/P2-Icon-Fonts/wiki/Icon-Fonts:-Making-and-Using-them-on-your-website)
 * [Creating Symbol Fonts](http://www.fivesimplesteps.com/products/creating-symbol-fonts)
 * [CSS Tricks - Flat Icon fonts](http://css-tricks.com/flat-icons-icon-fonts/)
-
-##Submission
-
-* [ ] Repository
-* [ ] gh-pages site URL
-* [ ] Wiki writeup. [See template](https://gist.github.com/ewuweblab/4727230)
-
-* February, 11th at 3pm
